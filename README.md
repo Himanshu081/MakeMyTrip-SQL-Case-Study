@@ -1,1 +1,1 @@
-# MakeMyTrip-SQL-Casr-STUDY
+# MakeMyTrip-SQL-Case-Study
